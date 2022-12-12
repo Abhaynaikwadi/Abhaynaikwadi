@@ -1,4 +1,9 @@
+
+
+
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/abhay-naikwadi-0777851b4/" target="_blank"> Abhay Naikwadi </a> </h1>
+
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Skills:+HTML+CSS+TailwindCSS" /> </h3>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -10,7 +15,8 @@
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+
 
 <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
@@ -21,5 +27,18 @@
   
   
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  
+ 
 </div>
+
+
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=naikwadi&show_icons=true&theme=dark&locale=en" alt="prakash-naikwadi" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash-naikwadi&show_icons=true&theme=dark&locale=en&layout=compact" alt="prakash-naikwadi" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-naikwadi&theme=dark" alt="prakash-naikwadi" /></p>
+  </div>
