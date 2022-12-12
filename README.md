@@ -34,11 +34,11 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=naikwadi&show_icons=true&theme=dark&locale=en" alt="prakash-naikwadi" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash-naikwadi&show_icons=true&theme=dark&locale=en&layout=compact" alt="prakash-naikwadi" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=abhaynaikwadi&show_icons=true&theme=dark&locale=en" alt="abhay-naikwadi" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaynaikwadi&show_icons=true&theme=dark&locale=en&layout=compact" alt="abhay-naikwadi" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-naikwadi&theme=dark" alt="prakash-naikwadi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaynaikwadi&theme=dark" alt="abhay-naikwadi" /></p>
   </div>
