@@ -35,7 +35,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=abhaynaikwadi&show_icons=true&theme=dark&locale=en" alt="abhay-naikwadi" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaynaikwadi&show_icons=true&theme=dark&locale=en&layout=compact" alt="abhay-naikwadi" /></td>
+   
   </tr>
 </table>
 
