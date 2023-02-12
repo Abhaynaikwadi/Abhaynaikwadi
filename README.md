@@ -22,7 +22,7 @@
 
 </div>
 
-<h3 align="left">Language
+<h3 align="left">Languages
 :</h3>
 <div align="left">
   
